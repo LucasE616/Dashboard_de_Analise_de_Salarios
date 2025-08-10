@@ -1,5 +1,7 @@
 # Dashboard de Salários na Área de Dados  
 
+[Clique aqui](https://dashsalarios.streamlit.app/) para acessar à página do navegador.
+
 Este projeto é um **dashboard interativo** desenvolvido com [Streamlit](https://streamlit.io/) para **análise de salários na área de dados**.  
 Ele utiliza dados públicos hospedados no GitHub e permite explorar informações salariais por diferentes filtros e visualizações.  
 
