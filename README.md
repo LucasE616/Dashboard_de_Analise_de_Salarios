@@ -2,8 +2,11 @@
 
 [Clique aqui](https://dashsalarios.streamlit.app/) para acessar à página do navegador.
 
+
 Este projeto é um **dashboard interativo** desenvolvido com [Streamlit](https://streamlit.io/) para **análise de salários na área de dados**.  
 Ele utiliza dados públicos hospedados no GitHub e permite explorar informações salariais por diferentes filtros e visualizações.  
+
+![Dashboard](https://github.com/LucasE616/Dashboard_de_Analise_de_Salarios/blob/main/Screenshot_10-8-2025_12494_localhost.jpeg)
 
 ## 📊 Funcionalidades  
 
